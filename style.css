@@ -1,0 +1,102 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.top-side{
+    display: flex;
+    padding-bottom: 80px;
+    
+}
+.about{
+    width: 100%;
+    margin: 30px 0;
+    padding-left: 60px;
+}
+.about img{
+    width: 80%;
+   
+  
+}
+.color{
+    color: rgb(240, 175, 56);
+}
+.new{
+    border-left: 3px solid red;
+    color: rgb(70, 66, 66);
+    border-radius: 2px;
+    font-size: 60px;
+    padding-left: 20px;
+}
+.details{
+    margin-top: 100px;
+    
+}
+.button{
+    background-color: coral;
+    color: rgb(255, 255, 255);
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.blue{
+    color: rgb(7, 7, 68);
+    font-size: 50px;
+    text-align: center;
+}
+.top-side{
+    margin: 0 100px;
+}
+.design{
+    width: 30%;
+    padding: 30px 30px;
+    margin-top: 50px;
+    
+}
+.design img{
+    width: 50%;
+}
+.msn{
+    background-color: rgb(209, 243, 232);
+    border-radius: 10px;
+    margin: 0 40px;
+}
+.vsn{
+    background-color: rgb(245, 207, 200);
+    border-radius: 10px;
+    margin: 0 40px;
+}
+.goal{
+    background-color: rgb(247, 245, 173);
+    border-radius: 10px;
+    margin: 0 40px;
+}
+.develop-side{
+    display: flex;
+    width: 100%;
+
+
+}
+.develop-side img{
+    width: 60%;
+    padding-left: 140px;
+    margin-bottom: 100px;
+}
+.develop-h{
+    color: rgb(70, 66, 66);
+    font-size: 60px;
+}
+.community{
+    display: flex;
+    width: 100%;
+    margin-left: 100px;
+
+}
+
+.community img{
+    width: 60%;
+    margin-bottom: 100px;
+}
+.com-2{
+    margin-right: 50px;
+    
+}
+
